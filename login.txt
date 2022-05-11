@@ -1,2 +1,2 @@
 inicio do trabalho na funcionalidade
-validação de e-mail
+validação de senha numerica
